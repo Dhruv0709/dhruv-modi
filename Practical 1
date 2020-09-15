@@ -1,6 +1,4 @@
-Name  :Bhavya Shah
-# Rollno:4072
-# Class :SYCS
+
 from array import *
 class Stack():
     def __init__(self):
